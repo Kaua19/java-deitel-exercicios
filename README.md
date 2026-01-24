@@ -24,9 +24,4 @@ O objetivo é **praticar, consolidar e documentar** os conceitos fundamentais e 
 **Editora:** Pearson  
 **Abordagem:** Programação estruturada, OO, boas práticas e fundamentos da linguagem Java
 
----
-
-## 🗂️ Estrutura do Repositório
-
-Os exercícios estão organizados por **capítulo**, seguindo a estrutura do livro:
 
